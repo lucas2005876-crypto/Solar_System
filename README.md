@@ -1,4 +1,7 @@
 # Solar_System
+
+NOMES: Lucas e Vinicius
+
 Etapa 2
 
 O theta representa o ângulo que indica a posição do planeta ou da Lua durante a sua órbita. Ele é atualizado dentro do método update() através de theta += orbitspeed, 
